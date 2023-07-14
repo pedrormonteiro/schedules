@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Personal Notes
+
+As a way to demonstrate the stack I am most comfortable with, I decided to develop this assessment using the following technologies:
+- Next.js
+- TypeScript
+- TailwindCSS
+- Zustand
+
+Personally, I feel that this was a great experience, both to show my personal development/skills and to better understand Blue Prism's requirements.
+
+Also, I used the original backend, there is no need to change the code :)
+
+#### Next Steps
+- Unit tests
+- Refactor grid structure if needed
+
+
+
 
 ## Getting Started
 
@@ -12,7 +29,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3002](http://localhost:3002) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
