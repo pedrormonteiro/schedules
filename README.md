@@ -6,7 +6,7 @@ As a way to demonstrate the stack I am most comfortable with, I decided to devel
 - TailwindCSS
 - Zustand
 
-Personally, I feel that this was a great experience, both to show my personal development/skills and to better understand Blue Prism's requirements.
+Personally, I feel that this was a great experience, both to show my personal development/skills and to better understand the client' requirements.
 
 Also, I used the original backend, there is no need to change the code :)
 
