@@ -1,5 +1,5 @@
 import { fireEvent, render } from "@testing-library/react";
-import MenuButton from "./MenuButton";
+import MenuButton from "../components/MenuButton";
 
 describe("Menu Button", () => {
   test("renders without error", () => {
